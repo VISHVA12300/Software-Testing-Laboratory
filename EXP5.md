@@ -1,3 +1,9 @@
+# Ex.No: 5 check the given number is present in array or not and inspect for failures.
+
+
+# DATE:17-04-25
+# REGISTER NUMBER :212222040182
+
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
