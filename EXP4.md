@@ -22,23 +22,29 @@ if x.isnumeric():
     x = int(x)
     temp = x
     cube = 0
-
     while temp > 0:
         digit = temp % 10
-        cube += digit ** 3
+        cube = cube + (digit ** 3)
         temp //= 10
-
     if cube == x:
         print("Armstrong Number")
     else:
         print("Not Armstrong Number")
 else:
     print("Enter a Positive Integer.")
-
 ```
-### Output:
 
-![Screenshot 2025-04-17 081919](https://github.com/user-attachments/assets/89cf7639-382d-4598-ad9b-0bbf81faefb0)
+
+
+
+### Output:
+![Screenshot 2025-04-17 081919](https://github.com/user-attachments/assets/26be5de4-7605-4525-aa0c-18f08905cb18)
+
+
+
+
+
+
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
