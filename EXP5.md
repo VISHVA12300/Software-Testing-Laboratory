@@ -1,4 +1,4 @@
-# Ex.No: 4 check the given number is present in array or not and inspect for failures.
+# Ex.No: 5 check the given number is present in array or not and inspect for failures.
 ### DATE: 17-04-25                                                                           
 ### REGISTER NUMBER : 212222040182
 ### AIM: 
@@ -60,6 +60,6 @@ except ValueError:
 
 
 ### Result:
-Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
+Thus, the python program of binary search is implemented and the output is verified successfully.
 
 
